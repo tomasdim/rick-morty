@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rick-morty/static/css/main.dc3928a1.chunk.css",
+    "main.js": "/rick-morty/static/js/main.4c062b1d.chunk.js",
+    "main.js.map": "/rick-morty/static/js/main.4c062b1d.chunk.js.map",
+    "runtime-main.js": "/rick-morty/static/js/runtime-main.2d38375c.js",
+    "runtime-main.js.map": "/rick-morty/static/js/runtime-main.2d38375c.js.map",
+    "static/css/2.4e69cdb5.chunk.css": "/rick-morty/static/css/2.4e69cdb5.chunk.css",
+    "static/js/2.318773eb.chunk.js": "/rick-morty/static/js/2.318773eb.chunk.js",
+    "static/js/2.318773eb.chunk.js.map": "/rick-morty/static/js/2.318773eb.chunk.js.map",
+    "index.html": "/rick-morty/index.html",
+    "static/css/2.4e69cdb5.chunk.css.map": "/rick-morty/static/css/2.4e69cdb5.chunk.css.map",
+    "static/css/main.dc3928a1.chunk.css.map": "/rick-morty/static/css/main.dc3928a1.chunk.css.map",
+    "static/js/2.318773eb.chunk.js.LICENSE.txt": "/rick-morty/static/js/2.318773eb.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/rick-morty/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d38375c.js",
+    "static/css/2.4e69cdb5.chunk.css",
+    "static/js/2.318773eb.chunk.js",
+    "static/css/main.dc3928a1.chunk.css",
+    "static/js/main.4c062b1d.chunk.js"
+  ]
+}
